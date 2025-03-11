@@ -12,6 +12,6 @@
     <Description>C# Modbus Tools</Description>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="System.IO.Ports" Version="7.0.*" />
+    <PackageReference Include="System.IO.Ports" Version="7.0.0" />
   </ItemGroup>
 </Project>
